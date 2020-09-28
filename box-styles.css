@@ -1,0 +1,40 @@
+h1,p{
+  background-color: #B2D6FF;
+}
+p{
+
+
+  border:1px solid #565656;
+  margin:20px 20px 50px 10px;
+
+}
+*{
+  padding:0px;
+  margin:0px;
+  box-sizing: border-box;
+
+}
+div{
+  color:white;
+  background-color:#5995DA;
+  font-weight: bold;
+  padding:20px;
+  text-align: center;
+  border:2px solid #5D6063;
+  border-radius: 5px;
+  width: 200px;
+  white-space: normal;
+  overflow:inherit;
+  
+  margin:auto;
+
+}
+body{
+text-align: center;
+}
+strong,em{
+  background-color: #DDE0E3;
+  margin:50px;
+  padding:50px;
+  border:1px solid #565656; /*default for strong and em is inline*/
+}
